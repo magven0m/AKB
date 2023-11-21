@@ -1,0 +1,22 @@
+{
+	"indent": "tab",
+	"semi": true,
+	"singleQuote": true,
+	"useTabs": true,
+	"tabWidth": 2,
+	"jsxSingleQuote": false,
+	"jsxBracketSameLine": false,
+	"arrowParens": "avoid",
+	"trailingComma": "none",
+	"printWidth": 110,
+	"explicitFunctionReturnType": true,
+	"objectLiteralSortKeys": true,
+	"importDeclarationSorter": false,
+	"propertyDeclarationAlignment": true,
+	"bracketSpacing": true,
+	"bracketSameLine": true,
+	"alignObjectProperties": true,
+	"organizeImports": true,
+	"proseWrap": "preserve",
+	"endOfLine": "lf"
+}
